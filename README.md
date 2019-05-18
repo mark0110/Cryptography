@@ -14,6 +14,6 @@ javac Decrypt.java
 java Decrypt [key] [input file] [output file]
 ```
 
-## Authors
+## Author
 
 [Mark Volfson](https://www.linkedin.com/in/mvolfson/)
